@@ -1,5 +1,9 @@
 # LIN GUAN-YI / 作品集
 
+[![Deploy to GitHub Pages](https://github.com/11256033-art/opencode_first_try/actions/workflows/deploy-pages.yml/badge.svg)](https://github.com/11256033-art/opencode_first_try/actions/workflows/deploy-pages.yml)
+
+**線上預覽**：https://11256033-art.github.io/opencode_first_try/
+
 單頁個人作品集，深色石墨底、單一玫瑰訊號色、手寫 SVG 圖表。純 HTML + CSS + 原生 JavaScript，沒有框架、沒有建置步驟、沒有追蹤碼。
 
 > **示範內容警告**：姓名與信箱已換成目前使用的資料；公司、職稱細節、專案、數字與社群連結仍是示範。寄給招募方之前，請先照下方清單替換成真實內容。四篇案例（GRIDWATCH、LEDGERLINE、FIELDNOTES、TYPE/SCALE）全部是虛構的。
@@ -28,6 +32,7 @@ css/styles.css      設計 token、版面、元件、動態、響應式
 js/main.js          時鐘、進場動畫、專案對話框、複製信箱、選單、章節導覽
 PRODUCT.md          產品脈絡：對象、目的、個性、反例、無障礙目標
 DESIGN.md           實際設計系統：色彩、字階、版面、元件、動態
+.github/workflows/  deploy-pages.yml：推送 main 即部署到 GitHub Pages
 shots/              驗證用截圖（可刪除）
 ```
 

@@ -1,0 +1,16 @@
+# 驗證用截圖（README 說明可刪除，不納入版控）
+shots/
+
+# 第三方 agent 技能檔（來源記錄於 skills-lock.json）
+.agents/
+
+# 作業系統與編輯器
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+
+# 日誌與暫存
+*.log
+node_modules/
